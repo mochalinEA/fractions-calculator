@@ -45,7 +45,7 @@ export default {
   }
 
   .router-link-exact-active {
-    color: #42b983;
+    color: rgb(var(--color-active));
   }
 
 </style>

@@ -29,6 +29,8 @@ export default {
 <style>
   :root {
     --color-basic: 44, 62, 80;
+    --color-active: 66, 185, 131;
+    --color-warning: 250, 5, 31;
   }
 
   .app {
